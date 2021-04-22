@@ -1,0 +1,18 @@
+--[[
+Welcome to ViiPer
+==========
+
+- How do I add my own script to the Script Hub?
+	Go into bin folder and read the txt file.
+
+- Why can't I open/extract ViiPer?
+	Try downloading:
+
+	-Visual C++ Redistributable-
+	x86: https://aka.ms/vs/16/release/vc_redist.x86.exe
+	x64: https://aka.ms/vs/16/release/vc_redist.x64.exe
+
+	.NET Framework 4.8 (https://dotnet.microsoft.com/download/dotnet-framework/net48)
+
+==========
+--]]
